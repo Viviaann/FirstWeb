@@ -1,0 +1,26 @@
+html {
+  background: url("http://www.wellnessconference.com/wp-content/uploads/2014/05/3-Dream+Nature+Wallpapers+02.jpg") no-repeat center;
+/* //http://gallery.yopriceville.com/downloadfullsize/send/5052*/
+    background-repeat: no-repeat;
+    background-position: fill;
+    background-size:cover;
+}
+#landgrass {
+    width: 500px
+}
+#tree {
+    width: 300px;
+}
+#tree3 {
+    width: 300px;
+/*    float:left*/
+}
+#tree2 {
+    width: 300px
+}
+#deer {
+    width: 100px
+}
+#parrot {
+    width: 50px;
+}
