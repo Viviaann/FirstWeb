@@ -1,6 +1,5 @@
 html {
   background: url("http://www.wellnessconference.com/wp-content/uploads/2014/05/3-Dream+Nature+Wallpapers+02.jpg") no-repeat center;
-/* //http://gallery.yopriceville.com/downloadfullsize/send/5052*/
     background-repeat: no-repeat;
     background-position: fill;
     background-size:cover;
@@ -10,17 +9,63 @@ html {
 }
 #tree {
     width: 300px;
+    position:absolute;
+    left:1000px;
+    top:150px;
 }
 #tree3 {
     width: 300px;
-/*    float:left*/
+    position:absolute;
+    left:10px;
+    top:350px;
 }
 #tree2 {
     width: 300px
 }
+#tiger{
+    width: 200px;
+    position:absolute;
+    top:250px;
+    left:200px;
+}
+#whitetiger {
+    width:150px;
+    height:300px;
+    position:absolute;
+    top:400px;
+    left:1100px;
+}
+
 #deer {
-    width: 100px
+    width: 100px;
+    position:absolute;
+    left:300px;
+    top:500px;
 }
 #parrot {
-    width: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+@-webkit-keyframes mymove {
+    from {left: 30px;}
+    to {left: 1070px;}
+}
+h1{
+    font-family:monospace;
+    color:red;
+    position:fixed;
+    left:20px;
+    top: 600px;
+    
+}
+h2{
+    font-family: monospace;
+    color:red;
+    position:fixed;
+    left: 20px;
+    top:650px;
 }
