@@ -42,6 +42,11 @@ html {
     left:300px;
     top:500px;
 }
+#duck{
+    width:500px;
+    position:absolute;
+    
+}
 #parrot {
     width: 100px;
     height: 100px;
@@ -49,7 +54,6 @@ html {
     -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
     animation: mymove 5s infinite;
 }
-
 @-webkit-keyframes mymove {
     from {left: 10px;}
     to {left: 1070px;}
@@ -100,4 +104,3 @@ h2{
     from {left: 10px;}
     to {left: 1070px;}
 }
-    
