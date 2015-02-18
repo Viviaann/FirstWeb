@@ -43,9 +43,10 @@ html {
     top:500px;
 }
 #duck{
-    width:500px;
+    width:50px;
     position:absolute;
-    
+    left:950px;
+    top:400px;
 }
 #parrot {
     width: 100px;
