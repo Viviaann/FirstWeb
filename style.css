@@ -51,7 +51,7 @@ html {
 }
 
 @-webkit-keyframes mymove {
-    from {left: 30px;}
+    from {left: 10px;}
     to {left: 1070px;}
 }
 h1{
@@ -69,3 +69,35 @@ h2{
     left: 20px;
     top:650px;
 }
+#swan{
+    width: 100px;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+#swanfly{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+@-webkit-keyframes mymove {
+    from {left: 30px;}
+    to {left: 1100px;}
+}
+#parrot2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+@-webkit-keyframes mymove {
+    from {left: 10px;}
+    to {left: 1070px;}
+}
+    
