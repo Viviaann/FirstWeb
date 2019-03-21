@@ -1,0 +1,97 @@
+ .btn-outline-info{
+      color:rgb(102,252,241) !important;
+    }
+ #tabs{
+      margin-left:auto;
+
+    }
+ #mypills{
+ 	margin-right:20px;
+ }
+ #vivianname{
+      margin-top: 20px;
+      margin-left: 0px;
+    }
+#bod{
+	background-color:rgb(11,12,16);
+}
+#namelogo{
+	color:white;
+	 font-weight: 600;
+}
+#bottomfoot{
+	color:rgb(69,162,158) !important
+}
+#contenttab{
+	margin-left:30px;
+	
+}
+#codebody{
+	border-radius: 7px;
+	width:670px;
+	padding:40px;
+	height:1020px;
+	margin:0 auto;
+	font-family:'Monoco', 'Courier New' !important;
+	text-align:left !important;
+	font-size:15px;
+	color:#C5C6C7 !important;
+
+}
+#codebody1{
+	border-radius: 7px;
+	width:670px;
+	padding:40px;
+	height:320px;
+	margin:0 auto;
+	font-family:'Monoco', 'Courier New' !important;
+	text-align:left !important;
+	font-size:16px;
+	color:#C5C6C7 !important;
+
+}
+#centerheader{
+	text-align: center  !important;
+}
+#bluerobot{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+#aroundbot{
+	background-color:#1F2833;
+	margin-right:0px;
+	margin-left: -30px;
+}
+#prompt{
+	color:white;
+	font-weight: bold;
+}
+#resumeborder{
+	height:800px;
+}
+#linkedin{
+	color:#66FCF1;
+}
+#cards{
+	width: 30rem;
+	margin-left:10% !important;
+	margin-right:10% !important;
+
+}
+#projectheader{
+	text-align: center;
+	font-weight: bold;
+}
+#worklist{
+	list-style:circle;
+	color:white;
+}
+h3{
+	
+	color:rgb(69,162,158) !important;
+}
+p{
+	 color:white !important;
+}
